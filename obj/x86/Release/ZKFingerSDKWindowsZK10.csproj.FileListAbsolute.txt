@@ -1,0 +1,8 @@
+C:\Users\Nahuel Valverde\Documents\03-Biometria\ZKFingerSDK_Windows_V10.0\C#\Demo\bin\x86\ZKFingerSDKWindowsZK10.exe
+C:\Users\Nahuel Valverde\Documents\03-Biometria\ZKFingerSDK_Windows_V10.0\C#\Demo\bin\x86\ZKFingerSDKWindowsZK10.pdb
+C:\Users\Nahuel Valverde\Documents\03-Biometria\ZKFingerSDK_Windows_V10.0\C#\Demo\bin\x86\libzkfpcsharp.dll
+C:\Users\Nahuel Valverde\Documents\03-Biometria\ZKFingerSDK_Windows_V10.0\C#\Demo\obj\x86\Release\Demo.Form1.resources
+C:\Users\Nahuel Valverde\Documents\03-Biometria\ZKFingerSDK_Windows_V10.0\C#\Demo\obj\x86\Release\ZKFingerSDKWindowsZK10.Properties.Resources.resources
+C:\Users\Nahuel Valverde\Documents\03-Biometria\ZKFingerSDK_Windows_V10.0\C#\Demo\obj\x86\Release\ZKFingerSDKWindowsZK10.csproj.GenerateResource.Cache
+C:\Users\Nahuel Valverde\Documents\03-Biometria\ZKFingerSDK_Windows_V10.0\C#\Demo\obj\x86\Release\ZKFingerSDKWindowsZK10.exe
+C:\Users\Nahuel Valverde\Documents\03-Biometria\ZKFingerSDK_Windows_V10.0\C#\Demo\obj\x86\Release\ZKFingerSDKWindowsZK10.pdb

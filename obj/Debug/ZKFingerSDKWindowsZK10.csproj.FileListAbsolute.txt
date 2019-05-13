@@ -1,0 +1,27 @@
+D:\MyDemo\biosdk\ZKFingerSDK\ZKFingerSDK_Windows_ZK10-Lite\C#\Demo\bin\Debug\ZKFingerSDKWindowsZK10.exe
+D:\MyDemo\biosdk\ZKFingerSDK\ZKFingerSDK_Windows_ZK10-Lite\C#\Demo\bin\Debug\ZKFingerSDKWindowsZK10.pdb
+D:\MyDemo\biosdk\ZKFingerSDK\ZKFingerSDK_Windows_ZK10-Lite\C#\Demo\bin\Debug\libzkfpcsharp.dll
+D:\MyDemo\biosdk\ZKFingerSDK\ZKFingerSDK_Windows_ZK10-Lite\C#\Demo\obj\Debug\ZKFingerSDKWindowsZK10.csprojResolveAssemblyReference.cache
+D:\MyDemo\biosdk\ZKFingerSDK\ZKFingerSDK_Windows_ZK10-Lite\C#\Demo\obj\Debug\Demo.Form1.resources
+D:\MyDemo\biosdk\ZKFingerSDK\ZKFingerSDK_Windows_ZK10-Lite\C#\Demo\obj\Debug\ZKFingerSDKWindowsZK10.Properties.Resources.resources
+D:\MyDemo\biosdk\ZKFingerSDK\ZKFingerSDK_Windows_ZK10-Lite\C#\Demo\obj\Debug\ZKFingerSDKWindowsZK10.csproj.GenerateResource.Cache
+D:\MyDemo\biosdk\ZKFingerSDK\ZKFingerSDK_Windows_ZK10-Lite\C#\Demo\obj\Debug\ZKFingerSDKWindowsZK10.exe
+D:\MyDemo\biosdk\ZKFingerSDK\ZKFingerSDK_Windows_ZK10-Lite\C#\Demo\obj\Debug\ZKFingerSDKWindowsZK10.pdb
+C:\yang\201803201053\ZKFingerSDK\ZKFingerSDK_Windows_ZK10-Lite\C#\Demo\obj\Debug\ZKFingerSDKWindowsZK10.exe
+C:\yang\201803201053\ZKFingerSDK\ZKFingerSDK_Windows_ZK10-Lite\C#\Demo\obj\Debug\ZKFingerSDKWindowsZK10.pdb
+C:\yang\201803201053\ZKFingerSDK\ZKFingerSDK_Windows_ZK10-Lite\C#\Demo\bin\Debug\ZKFingerSDKWindowsZK10.exe
+C:\yang\201803201053\ZKFingerSDK\ZKFingerSDK_Windows_ZK10-Lite\C#\Demo\bin\Debug\ZKFingerSDKWindowsZK10.pdb
+C:\yang\201803201053\ZKFingerSDK\ZKFingerSDK_Windows_ZK10-Lite\C#\Demo\bin\Debug\libzkfpcsharp.dll
+C:\yang\201803201053\ZKFingerSDK\ZKFingerSDK_Windows_ZK10-Lite\C#\Demo\obj\Debug\ResolveAssemblyReference.cache
+C:\yang\201803201053\ZKFingerSDK\ZKFingerSDK_Windows_ZK10-Lite\C#\Demo\obj\Debug\Demo.Form1.resources
+C:\yang\201803201053\ZKFingerSDK\ZKFingerSDK_Windows_ZK10-Lite\C#\Demo\obj\Debug\ZKFingerSDKWindowsZK10.Properties.Resources.resources
+C:\yang\201803201053\ZKFingerSDK\ZKFingerSDK_Windows_ZK10-Lite\C#\Demo\obj\Debug\ZKFingerSDKWindowsZK10.csproj.GenerateResource.Cache
+C:\Users\Nahuel Valverde\Documents\03-Biometria\ZKFingerSDK_Windows_V10.0\C#\Demo\obj\Debug\ZKFingerSDKWindowsZK10.exe
+C:\Users\Nahuel Valverde\Documents\03-Biometria\ZKFingerSDK_Windows_V10.0\C#\Demo\obj\Debug\ZKFingerSDKWindowsZK10.pdb
+C:\Users\Nahuel Valverde\Documents\03-Biometria\ZKFingerSDK_Windows_V10.0\C#\Demo\bin\Debug\ZKFingerSDKWindowsZK10.exe
+C:\Users\Nahuel Valverde\Documents\03-Biometria\ZKFingerSDK_Windows_V10.0\C#\Demo\bin\Debug\ZKFingerSDKWindowsZK10.pdb
+C:\Users\Nahuel Valverde\Documents\03-Biometria\ZKFingerSDK_Windows_V10.0\C#\Demo\bin\Debug\libzkfpcsharp.dll
+C:\Users\Nahuel Valverde\Documents\03-Biometria\ZKFingerSDK_Windows_V10.0\C#\Demo\obj\Debug\ZKFingerSDKWindowsZK10.csprojResolveAssemblyReference.cache
+C:\Users\Nahuel Valverde\Documents\03-Biometria\ZKFingerSDK_Windows_V10.0\C#\Demo\obj\Debug\Demo.Form1.resources
+C:\Users\Nahuel Valverde\Documents\03-Biometria\ZKFingerSDK_Windows_V10.0\C#\Demo\obj\Debug\ZKFingerSDKWindowsZK10.Properties.Resources.resources
+C:\Users\Nahuel Valverde\Documents\03-Biometria\ZKFingerSDK_Windows_V10.0\C#\Demo\obj\Debug\ZKFingerSDKWindowsZK10.csproj.GenerateResource.Cache
